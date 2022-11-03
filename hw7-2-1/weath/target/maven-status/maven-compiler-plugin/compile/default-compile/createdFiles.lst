@@ -1,0 +1,17 @@
+MainApp.class
+ForecastResponse.class
+UserInterface.class
+ApplicationGlobalState.class
+Night.class
+DailyForecast.class
+Maximum.class
+Periods.class
+Day.class
+Functionality.class
+Controller$1.class
+WeatherProvider.class
+AccuWeatherProvider.class
+Minimum.class
+Controller.class
+Headline.class
+Temperature.class
